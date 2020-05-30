@@ -1,18 +1,19 @@
-# Foobar
+# Move file
 
 Hello, little app for move file to anothe folder.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install movefile.
 
 ```bash
-pip install foobar
+pip install movefile
 ```
 
 ## Usage
 
 ```python
+    pip install movefile
 
 ```
 
